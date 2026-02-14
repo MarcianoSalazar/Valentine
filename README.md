@@ -1,6 +1,6 @@
-# Happy Valentine's Day 💝
+# My Valentine, Janell 💝
 
-A romantic, animated Valentine's Day love letter website created for someone special.
+A romantic, animated Valentine's Day love letter website created for my love, Janell.
 
 ## Preview
 
